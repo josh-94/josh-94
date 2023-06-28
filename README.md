@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeshua Cabanillas Blanco!
 - 👀 I’m interested in Coding, Sports & Traveling
-- 🌱 Frontend Web Developer 
+- 🌱 Junior Frontend Web Developer | React.js | Javascript | HTML5 | CSS3 | Bootstrap 5
 - 📫 How to reach me you can direct message on Instagram code.withjosh
 <!---
 josh-94/josh-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
