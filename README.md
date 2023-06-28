@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeshua Cabanillas Blanco!
 - 👀 I’m interested in Coding, Sports & Traveling
-- 🌱 Full Stack Software Engineer
+- 🌱 Frontend Web Developer 
 - 📫 How to reach me you can direct message on Instagram code.withjosh
 <!---
 josh-94/josh-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
