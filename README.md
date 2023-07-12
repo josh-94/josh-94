@@ -6,5 +6,5 @@
 josh-94/josh-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Image text](https://github.com/josh-94/josh-94/blob/main/Banner%20Github%20Jeshua%20Cabanillas.png)
+
 
